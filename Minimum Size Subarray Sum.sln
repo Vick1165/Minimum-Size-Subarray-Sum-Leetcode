@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Size Subarray Sum", "Minimum Size Subarray Sum\Minimum Size Subarray Sum.csproj", "{CDFCEF40-60CF-4833-ACD9-D6DC75A87A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFCEF40-60CF-4833-ACD9-D6DC75A87A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFCEF40-60CF-4833-ACD9-D6DC75A87A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFCEF40-60CF-4833-ACD9-D6DC75A87A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFCEF40-60CF-4833-ACD9-D6DC75A87A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5677B13-A0DD-4D18-88B2-F2B59D71778D}
+	EndGlobalSection
+EndGlobal
